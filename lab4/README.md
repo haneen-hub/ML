@@ -1,5 +1,9 @@
 # Machine Learning
 
+Haneen Alhomood 2250030038
+    
+Reem Hakami 2250030258
+
 ## Lab 4 – Exploratory Data Analysis
 
 ## Dataset
